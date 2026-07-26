@@ -1,6 +1,6 @@
 # Welcome to Meme Arena
 
-<figure><img src=".gitbook/assets/banner.jpg" alt="Meme Arena — The Colosseum of Crypto Degeneracy" width="100%"><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/1000375067.png" alt="Meme Arena — The Colosseum of Crypto Degeneracy"><figcaption></figcaption></figure>
 
 ## The Colosseum of Crypto Degeneracy
 
@@ -39,4 +39,4 @@ Discover a Fight  →  Place Your Prediction  →  Watch the Battle  →  Collec
 
 ## Getting Started
 
-<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🔗 Connect Your Wallet</strong></td><td>Start with any Solana wallet. Takes 30 seconds.</td><td><a href="account/connecting-wallet.md">connecting-wallet.md</a></td></tr><tr><td><strong>⚔️ Understand the Leagues</strong></td><td>From micro-cap Bronze fighters to mega-cap Diamond gladiators.</td><td><a href="arena/leagues.md">leagues.md</a></td></tr><tr><td><strong>🎯 Place Your First Prediction</strong></td><td>How the Accuracy Pool works and how rewards are calculated.</td><td><a href="predictions/placing-predictions.md">placing-predictions.md</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-card-cover data-type="image">Cover image</th></tr></thead><tbody><tr><td><strong>🔗 Connect Your Wallet</strong></td><td>Start with any Solana wallet. Takes 30 seconds.</td><td><a href="account/connecting-wallet.md">connecting-wallet.md</a></td><td><a href=".gitbook/assets/1000375069.jpg">1000375069.jpg</a></td></tr><tr><td><strong>⚔️ Understand the Leagues</strong></td><td>From micro-cap Bronze fighters to mega-cap Diamond gladiators.</td><td><a href="arena/leagues.md">leagues.md</a></td><td><a href=".gitbook/assets/1000375073.jpg">1000375073.jpg</a></td></tr><tr><td><strong>🎯 Place Your First Prediction</strong></td><td>How the Accuracy Pool works and how rewards are calculated.</td><td><a href="predictions/placing-predictions.md">placing-predictions.md</a></td><td><a href=".gitbook/assets/1000375074.jpg">1000375074.jpg</a></td></tr></tbody></table>
