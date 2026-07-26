@@ -2,13 +2,19 @@
 
 **Points (pts)** are the in-platform currency used for placing predictions and earning rewards. Points are non-transferable and exist entirely within Meme Arena.
 
----
+***
 
 ## Starting Balance
 
-Every new account receives **100 Points** upon first login. No purchase required.
+<details>
 
----
+<summary>Every new account receives <strong>100 Points</strong> upon first login. No purchase required.</summary>
+
+<figure><img src="../.gitbook/assets/1000375078.png" alt=""><figcaption></figcaption></figure>
+
+</details>
+
+***
 
 ## Earning Points
 
@@ -24,41 +30,42 @@ Log in every day to claim your daily bonus. The longer your streak, the bigger t
 
 Share your referral code from your Profile page. When someone signs up using your code, you receive a referral bonus.
 
----
+***
 
 ## Spending Points
 
-| Cost | Amount |
-|---|---|
+| Cost                             | Amount                        |
+| -------------------------------- | ----------------------------- |
 | **Stake** (enters Accuracy Pool) | Your choice — minimum applies |
-| **Entry fee** (per prediction) | Flat **15 pts** |
+| **Entry fee** (per prediction)   | Flat **15 pts**               |
 
 Total cost per prediction = **Stake + 15 pts**
 
----
+***
 
 ## Points Are Not Crypto
 
 Points are a platform-internal currency:
 
-- ❌ Not withdrawable to wallet
-- ❌ Not transferable between accounts
-- ❌ Not purchasable (currently)
-- ✅ Earned through predictions, daily bonuses, and referrals
-- ✅ Tracked transparently per-wallet
+* ❌ Not withdrawable to wallet
+* ❌ Not transferable between accounts
+* ❌ Not purchasable (currently)
+* ✅ Earned through predictions, daily bonuses, and referrals
+* ✅ Tracked transparently per-wallet
 
 {% hint style="success" %}
 As the **ARENA Token** launches, Points may become convertible or gain additional utility. Accumulate now. See [The ARENA Token](../token/arena-token.md).
 {% endhint %}
 
----
+***
 
 ## Tracking Your Points
 
 Your current balance is shown in the **top navigation bar** at all times (once your wallet is connected).
 
 The **Profile** page shows a full breakdown:
-- Current balance and lifetime earnings
-- Total spent on predictions
-- **Net PnL** — points won/refunded minus points staked and fees paid
-- Full transaction history with reasons (`bet_placed`, `daily_bonus`, `accuracy_payout`, etc.)
+
+* Current balance and lifetime earnings
+* Total spent on predictions
+* **Net PnL** — points won/refunded minus points staked and fees paid
+* Full transaction history with reasons (`bet_placed`, `daily_bonus`, `accuracy_payout`, etc.)
