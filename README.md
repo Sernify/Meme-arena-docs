@@ -1,0 +1,48 @@
+# Welcome to Meme Arena
+
+<figure><img src=".gitbook/assets/banner.jpg" alt="Meme Arena — The Colosseum of Crypto Degeneracy" width="100%"></figure>
+
+## The Colosseum of Crypto Degeneracy
+
+**Meme Arena** is a real-time prediction platform on Solana where meme tokens fight each other in live, on-chain battles. Instead of paper trading or endless chart watching, you pick a side, place your prediction, and watch the market decide the winner — in 5 minutes.
+
+No luck. No randomness. Pure market performance.
+
+---
+
+## What Makes Meme Arena Different
+
+| Feature | Description |
+|---|---|
+| 📊 **Market-driven** | Winners are determined by real on-chain volume and market cap — never by a random number generator |
+| ⚡ **Speed** | Each match lasts **5 minutes**. Three matches make a full fight. Results in 15 minutes |
+| 🛡️ **Fair play** | Tokens pass rigorous security checks before entering. No rug-pull tokens. No honeypots |
+| 💰 **Peer-to-peer pool** | The Accuracy Pool distributes rewards from other predictors, not from a house bankroll |
+| 🔐 **Wallet-native** | Connect any Solana wallet. No email. No KYC. Your keys, your identity |
+
+---
+
+## The Platform at a Glance
+
+<figure><img src=".gitbook/assets/screenshot-dashboard.jpg" alt="Meme Arena Dashboard — live stats, league roster, top movers"></figure>
+
+---
+
+## The Core Loop
+
+```
+Discover a Fight  →  Place Your Prediction  →  Watch the Battle  →  Collect Rewards
+     (Arena)              (2-min window)          (5-min round)       (Accuracy Pool)
+```
+
+1. **Browse the Arena** — see live fights across 4 leagues (Bronze → Diamond)
+2. **Pick your fighter** — back the token you believe will outperform in the next 5 minutes
+3. **Place your prediction** — spend Points to enter the Accuracy Pool
+4. **Watch live** — track volume and market cap in real time
+5. **Collect** — winners share the pool proportional to their stake
+
+---
+
+## Getting Started
+
+<table data-card-size="large" data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td><strong>🔗 Connect Your Wallet</strong></td><td>Start with any Solana wallet. Takes 30 seconds.</td><td><a href="account/connecting-wallet.md">connecting-wallet.md</a></td></tr><tr><td><strong>⚔️ Understand the Leagues</strong></td><td>From micro-cap Bronze fighters to mega-cap Diamond gladiators.</td><td><a href="arena/leagues.md">leagues.md</a></td></tr><tr><td><strong>🎯 Place Your First Prediction</strong></td><td>How the Accuracy Pool works and how rewards are calculated.</td><td><a href="predictions/placing-predictions.md">placing-predictions.md</a></td></tr></tbody></table>
