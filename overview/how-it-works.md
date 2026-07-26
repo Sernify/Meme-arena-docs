@@ -55,7 +55,7 @@ League assignment is **live** — as a token's market cap changes, it automatica
 
 ## How a Fight Works
 
-<figure><img src="../.gitbook/assets/1000375026.jpg" alt="Live Arena Fights — real-time head-to-head battles"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1000375026 (1).jpg" alt="Live Arena Fights — real-time head-to-head battles"><figcaption></figcaption></figure>
 
 ### Matchmaking
 
