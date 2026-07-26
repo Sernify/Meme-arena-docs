@@ -1,3 +1,7 @@
+---
+icon: face-smiling-hands
+---
+
 # Welcome to Meme Arena
 
 <figure><img src=".gitbook/assets/1000375067.png" alt="Meme Arena — The Colosseum of Crypto Degeneracy"><figcaption></figcaption></figure>

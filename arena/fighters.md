@@ -1,3 +1,7 @@
+---
+icon: child-combatant
+---
+
 # Fighters (Tokens)
 
 Every token in the Arena is a **fighter** — a live Solana meme token competing based on its real on-chain market performance.
@@ -85,3 +89,4 @@ If a token falls below these thresholds, it is marked **inactive** and removed f
 The platform tracks the **on-chain deployer wallet** for every token (fetched via Helius DAS API at admission). Two tokens sharing the same deployer can **never be matched against each other**.
 
 This prevents a token creator from deploying two tokens and coordinating their performance during a fight to profit at predictors' expense.
+

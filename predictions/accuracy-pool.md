@@ -1,3 +1,7 @@
+---
+icon: hand-holding-star
+---
+
 # Accuracy Pool
 
 The Accuracy Pool is the reward mechanism at the heart of Meme Arena. It's a **peer-to-peer prediction pool** — the platform does not take the losing side of your bet. Winning predictors split the losing predictors' stakes.

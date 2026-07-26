@@ -1,7 +1,8 @@
 ---
+icon: coin
 cover: ../.gitbook/assets/1000375081.png
 coverY: 0
-coverHeight: 321
+coverHeight: 382
 ---
 
 # The ARENA Token

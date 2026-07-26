@@ -1,3 +1,7 @@
+---
+icon: swords
+---
+
 # Fights & Matches
 
 Understanding the difference between a **Match** and a **Fight**, and how each is scored, is the foundation of making good predictions.

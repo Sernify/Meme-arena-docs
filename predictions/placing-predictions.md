@@ -1,3 +1,7 @@
+---
+icon: bullseye-pointer
+---
+
 # Placing Predictions
 
 Making a prediction is how you put your market intuition to work. Here's the full flow.

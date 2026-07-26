@@ -1,3 +1,7 @@
+---
+icon: gear
+---
+
 # How It Works
 
 Meme Arena turns live Solana market data into a head-to-head competition. Here's the full picture.

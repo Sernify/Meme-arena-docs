@@ -1,3 +1,7 @@
+---
+icon: sparkles
+---
+
 # Points System
 
 **Points (pts)** are the in-platform currency used for placing predictions and earning rewards. Points are non-transferable and exist entirely within Meme Arena.
