@@ -2,9 +2,9 @@
 
 Meme Arena turns live Solana market data into a head-to-head competition. Here's the full picture.
 
-<figure><img src="../.gitbook/assets/how-it-works.jpg" alt="Discover → Fight → Collect"></figure>
+<figure><img src="../.gitbook/assets/how-it-works.jpg" alt="Discover → Fight → Collect"><figcaption></figcaption></figure>
 
----
+***
 
 ## The Token Pipeline
 
@@ -14,23 +14,23 @@ Before any token ever enters the Arena, it goes through an automated discovery a
 
 The platform continuously monitors three live data sources:
 
-- **DexScreener** — the broadest net; catches trending Solana pairs
-- **PumpPortal** — real-time feed of new token mints and Pump.fun migrations
-- **PumpFun API** — recent and top-performing Pump.fun graduates
+* **DexScreener** — the broadest net; catches trending Solana pairs
+* **PumpPortal** — real-time feed of new token mints and Pump.fun migrations
+* **PumpFun API** — recent and top-performing Pump.fun graduates
 
 ### 2. Security Gates
 
 Every newly discovered token must pass **all** of the following checks before admission:
 
-| Check | Requirement | Why It Matters |
-|---|---|---|
-| **Mint Authority** | Revoked | No one can print new supply |
-| **Freeze Authority** | Revoked | No one can freeze wallets (honeypot prevention) |
-| **Liquidity** | ≥ $5,000 on-chain | Token is actually tradable |
-| **Volume** | ≥ $1,000 24h | Active market participation |
-| **Pair Age** | ≥ 6 hours (15 min for Pump.fun) | Filters bot-launch tokens |
-| **FDV/MCap ratio** | ≤ 10× | No VC-backed / utility tokens |
-| **Meme Signal** | Pass name/symbol heuristic | No stablecoins or wrapped assets |
+| Check                | Requirement                     | Why It Matters                                  |
+| -------------------- | ------------------------------- | ----------------------------------------------- |
+| **Mint Authority**   | Revoked                         | No one can print new supply                     |
+| **Freeze Authority** | Revoked                         | No one can freeze wallets (honeypot prevention) |
+| **Liquidity**        | ≥ $5,000 on-chain               | Token is actually tradable                      |
+| **Volume**           | ≥ $1,000 24h                    | Active market participation                     |
+| **Pair Age**         | ≥ 6 hours (15 min for Pump.fun) | Filters bot-launch tokens                       |
+| **FDV/MCap ratio**   | ≤ 10×                           | No VC-backed / utility tokens                   |
+| **Meme Signal**      | Pass name/symbol heuristic      | No stablecoins or wrapped assets                |
 
 {% hint style="info" %}
 Mint and freeze authority checks are performed on-chain via Helius RPC. This cannot be faked.
@@ -49,20 +49,22 @@ $1,000,000 – $10M   →  🥇 Gold
 
 League assignment is **live** — as a token's market cap changes, it automatically moves up or down.
 
----
+<figure><img src="../.gitbook/assets/1000375024.jpg" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## How a Fight Works
 
-<figure><img src="../.gitbook/assets/screenshot-fights.jpg" alt="Live Arena Fights — real-time head-to-head battles"></figure>
+<figure><img src="../.gitbook/assets/1000375026.jpg" alt="Live Arena Fights — real-time head-to-head battles"><figcaption></figcaption></figure>
 
 ### Matchmaking
 
 The matchmaker runs continuously, pairing tokens within the same league that have:
 
-- Market caps within **20%** of each other
-- 24h volumes within **60%** of each other
-- No fight in the last **1 hour** (per token)
-- No shared **on-chain deployer wallet** (anti-collusion)
+* Market caps within **20%** of each other
+* 24h volumes within **60%** of each other
+* No fight in the last **1 hour** (per token)
+* No shared **on-chain deployer wallet** (anti-collusion)
 
 ### Fight Structure
 
@@ -77,6 +79,8 @@ FIGHT  (≈15 minutes)
 Winner = token that wins 2+ matches
 ```
 
+<figure><img src="../.gitbook/assets/1000375020.png" alt=""><figcaption></figcaption></figure>
+
 ### Winning a Match
 
 At the end of each 5-minute round, both tokens are compared against their state at round start:
@@ -86,10 +90,18 @@ At the end of each 5-minute round, both tokens are compared against their state 
 
 The token with stronger combined performance wins. This is raw DexScreener market data — no oracle, no synthetic feed.
 
----
+<figure><img src="../.gitbook/assets/1000375035 (1).jpg" alt=""><figcaption></figcaption></figure>
+
+***
 
 ## After the Fight
 
-- **Accuracy Pool** settles immediately: Points distributed to winning predictors
-- **Fighter cooldown**: Both tokens rest **1 hour** before their next fight
-- **Fight history** is permanently stored and visible in the Fights section
+* **Accuracy Pool** settles immediately: Points distributed to winning predictors
+* **Fighter cooldown**: Both tokens rest **1 hour** before their next fight
+* **Fight history** is permanently stored and visible in the Fights section
+
+
+
+<figure><img src="../.gitbook/assets/1000375033.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/1000375031.jpg" alt=""><figcaption></figcaption></figure>
