@@ -1,6 +1,6 @@
 # Welcome to Meme Arena
 
-<figure><img src=".gitbook/assets/banner.jpg" alt="Meme Arena — The Colosseum of Crypto Degeneracy" width="100%"></figure>
+<figure><img src=".gitbook/assets/banner.jpg" alt="Meme Arena — The Colosseum of Crypto Degeneracy" width="100%"><figcaption></figcaption></figure>
 
 ## The Colosseum of Crypto Degeneracy
 
@@ -8,27 +8,21 @@
 
 No luck. No randomness. Pure market performance.
 
----
+***
 
 ## What Makes Meme Arena Different
 
-| Feature | Description |
-|---|---|
-| 📊 **Market-driven** | Winners are determined by real on-chain volume and market cap — never by a random number generator |
-| ⚡ **Speed** | Each match lasts **5 minutes**. Three matches make a full fight. Results in 15 minutes |
-| 🛡️ **Fair play** | Tokens pass rigorous security checks before entering. No rug-pull tokens. No honeypots |
-| 💰 **Peer-to-peer pool** | The Accuracy Pool distributes rewards from other predictors, not from a house bankroll |
-| 🔐 **Wallet-native** | Connect any Solana wallet. No email. No KYC. Your keys, your identity |
+<table><thead><tr><th width="310.8790283203125">Feature</th><th>Description</th></tr></thead><tbody><tr><td>📊 <strong>Market-driven</strong></td><td>Winners are determined by real on-chain volume and market cap — never by a random number generator</td></tr><tr><td>⚡ <strong>Speed</strong></td><td>Each match lasts <strong>5 minutes</strong>. Three matches make a full fight. Results in 15 minutes</td></tr><tr><td>🛡️ <strong>Fair play</strong></td><td>Tokens pass rigorous security checks before entering. No rug-pull tokens. No honeypots</td></tr><tr><td>💰 <strong>Peer-to-peer pool</strong></td><td>The Accuracy Pool distributes rewards from other predictors, not from a house bankroll</td></tr><tr><td>🔐 <strong>Wallet-native</strong></td><td>Connect any Solana wallet. No email. No KYC. Your keys, your identity</td></tr></tbody></table>
 
----
+***
 
 ## The Platform at a Glance
 
-<figure><img src=".gitbook/assets/screenshot-dashboard.jpg" alt="Meme Arena Dashboard — live stats, league roster, top movers"></figure>
+<figure><img src=".gitbook/assets/1000375012.jpg" alt="Meme Arena Dashboard — live stats, league roster, top movers"><figcaption></figcaption></figure>
 
----
+***
 
-## The Core Loop
+## The Core Loopo
 
 ```
 Discover a Fight  →  Place Your Prediction  →  Watch the Battle  →  Collect Rewards
@@ -41,7 +35,7 @@ Discover a Fight  →  Place Your Prediction  →  Watch the Battle  →  Collec
 4. **Watch live** — track volume and market cap in real time
 5. **Collect** — winners share the pool proportional to their stake
 
----
+***
 
 ## Getting Started
 
