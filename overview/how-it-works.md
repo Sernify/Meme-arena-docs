@@ -83,7 +83,7 @@ FIGHT  (≈15 minutes)
 Winner = token that wins 2+ matches
 ```
 
-<figure><img src="../.gitbook/assets/1000375020.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/1000375096.png" alt=""><figcaption></figcaption></figure>
 
 ### Winning a Match
 
